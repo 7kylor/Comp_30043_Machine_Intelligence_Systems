@@ -1,0 +1,71 @@
+
+uv tree
+Resolved 51 packages in 0.50ms
+comp-30043-machine-intelligence-systems v0.1.0
+├── ipykernel v6.29.5
+│   ├── appnope v0.1.4
+│   ├── comm v0.2.2
+│   │   └── traitlets v5.14.3
+│   ├── debugpy v1.8.13
+│   ├── ipython v9.0.2
+│   │   ├── decorator v5.2.1
+│   │   ├── ipython-pygments-lexers v1.1.1
+│   │   │   └── pygments v2.19.1
+│   │   ├── jedi v0.19.2
+│   │   │   └── parso v0.8.4
+│   │   ├── matplotlib-inline v0.1.7
+│   │   │   └── traitlets v5.14.3
+│   │   ├── pexpect v4.9.0
+│   │   │   └── ptyprocess v0.7.0
+│   │   ├── prompt-toolkit v3.0.50
+│   │   │   └── wcwidth v0.2.13
+│   │   ├── pygments v2.19.1
+│   │   ├── stack-data v0.6.3
+│   │   │   ├── asttokens v3.0.0
+│   │   │   ├── executing v2.2.0
+│   │   │   └── pure-eval v0.2.3
+│   │   └── traitlets v5.14.3
+│   ├── jupyter-client v8.6.3
+│   │   ├── jupyter-core v5.7.2
+│   │   │   ├── platformdirs v4.3.7
+│   │   │   └── traitlets v5.14.3
+│   │   ├── python-dateutil v2.9.0.post0
+│   │   │   └── six v1.17.0
+│   │   ├── pyzmq v26.4.0
+│   │   ├── tornado v6.4.2
+│   │   └── traitlets v5.14.3
+│   ├── jupyter-core v5.7.2 (*)
+│   ├── matplotlib-inline v0.1.7 (*)
+│   ├── nest-asyncio v1.6.0
+│   ├── packaging v24.2
+│   ├── psutil v7.0.0
+│   ├── pyzmq v26.4.0
+│   ├── tornado v6.4.2
+│   └── traitlets v5.14.3
+├── matplotlib v3.10.1
+│   ├── contourpy v1.3.1
+│   │   └── numpy v2.2.4
+│   ├── cycler v0.12.1
+│   ├── fonttools v4.57.0
+│   ├── kiwisolver v1.4.8
+│   ├── numpy v2.2.4
+│   ├── packaging v24.2
+│   ├── pillow v11.2.1
+│   ├── pyparsing v3.2.3
+│   └── python-dateutil v2.9.0.post0 (*)
+├── pandas v2.2.3
+│   ├── numpy v2.2.4
+│   ├── python-dateutil v2.9.0.post0 (*)
+│   ├── pytz v2025.2
+│   └── tzdata v2025.2
+├── scikit-learn v1.6.1
+│   ├── joblib v1.4.2
+│   ├── numpy v2.2.4
+│   ├── scipy v1.15.2
+│   │   └── numpy v2.2.4
+│   └── threadpoolctl v3.6.0
+└── seaborn v0.13.2
+    ├── matplotlib v3.10.1 (*)
+    ├── numpy v2.2.4
+    └── pandas v2.2.3 (*)
+(*) Package tree already displayed
